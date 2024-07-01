@@ -4,3 +4,5 @@
 · Cream: A quart of half-and-half cream creates a thick, smooth, velvety texture.
 · Red wine vinegar: Two tablespoons of red wine vinegar add welcome acidity.
 · Seasonings: This clam chowder is simply seasoned with salt and pepper.
+
+*The best reccipe ever
