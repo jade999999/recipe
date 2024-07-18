@@ -9,13 +9,13 @@ This delicious clam chowder is cream-based and calls for the traditional chowder
 
 https://www.allrecipes.com/recipe/13041/my-best-clam-chowder/
 ### This is a REMOTE change :O
-Ordered list:
+***Ordered list***:
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
 
-Unordred list:
+***Unordred list***:
 1. First item
 8. Second item
 3. Third item
